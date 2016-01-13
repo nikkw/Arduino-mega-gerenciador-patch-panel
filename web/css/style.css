@@ -1,0 +1,62 @@
+html {
+  position: relative;
+  min-height: 100%;
+}
+body {
+  margin-bottom: 60px;
+}
+
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 60px;
+  background-color: #f5f5f5;
+}
+
+.navbar{
+  background-color: #f5f5f5;
+  border: none;
+}
+
+.container {
+  width: auto;
+  max-width: 820px;
+  padding: 0 15px;
+}
+.container .text-muted {
+  margin: 20px 0;
+}
+
+.btn-door{
+  margin-top: 20px;
+  margin-right: 20px;
+  width: 30%;
+}
+
+label{
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+.items{
+  padding-top: 10px;
+  padding-left: 20px;
+}
+
+.settings-item{
+  padding-bottom: 15px;
+}
+
+.settings label{
+  padding-top: 0px;
+  padding-bottom: 0px;
+}
+
+.label-settings{
+  padding-right: 7px;
+}
+
+.box-settings{
+  margin-right: 10px;  
+}
